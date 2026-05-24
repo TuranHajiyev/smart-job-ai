@@ -30,6 +30,18 @@ RSS_FEEDS = [
         "name": "Jobspresso",
         "url": "https://jobspresso.co/feed/",
     },
+    {
+        "name": "Remotive Finance",
+        "url": "https://remotive.com/remote-jobs/feed/finance",
+    },
+    {
+        "name": "Remote.co Accounting",
+        "url": "https://remote.co/remote-jobs/accounting/feed/",
+    },
+    {
+        "name": "Flexjobs RSS",
+        "url": "https://www.flexjobs.com/rss/jobs.rss?search=bookkeeper&location=anywhere",
+    },
 ]
 
 # Keywords to PRIORITIZE
