@@ -12,7 +12,7 @@ CHECK_INTERVAL_MINUTES = int(os.getenv("CHECK_INTERVAL_MINUTES", 30))
 RSS_FEEDS = [
     {
         "name": "Jobicy Remote",
-        "url": "https://jobicy.com/?feed=job_feed&job_types=remote&num_listings=20",
+        "url": "https://jobicy.com/?feed=job_feed&job_types=remote",
     },
     {
         "name": "WeWorkRemotely Finance",
